@@ -1,0 +1,8 @@
+name: MythicPowerAddon
+main: me.dustin.mythicpower.MythicPowerAddon
+version: 1.0.3
+commands:
+  mythicpower:
+    description: See other player info
+    usage: /<command>
+    aliases: [power,mpower, mythicpower, ]

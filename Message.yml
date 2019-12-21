@@ -1,0 +1,12 @@
+PlayerPower: '&fLực chiến của bạn &e%power%&7 - &4&lTOP &c#%position%'
+your_power: '&fTổng lực chiến&e %power%'
+reload_success: '&aNạp lại config thành công'
+console: '&cConsole không thể sử dụng lệnh này'
+update_success: '&aCập nhật lực chiến thành công cho trang bị'
+wrong_command: '&fSai lệnh. Gõ&a /power help&f để xem các lệnh'
+help:
+- '&d&lMythic&e&l Power&c&l Addon&f by&c Dustin'
+- '&c/power me &7- &fXem lực chiến của bạn'
+- '&c/power reload &7- &fReload lại toàn bộ config'
+- '&c/power top &7-&f Xem bảng xếp hạng'
+- '&c/power update&7-&f Cập nhật lực chiến cho trang bị trên tay'

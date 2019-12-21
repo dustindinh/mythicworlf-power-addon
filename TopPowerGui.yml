@@ -1,0 +1,97 @@
+Title: '&0&lTOP 10 LỰC CHIẾN'
+Size: 54
+DecorationItems:
+  TopHead:
+    Type: 'PlayerHead'
+    Name: '&c&lPLAYER &f%player_name%'
+    EmptyTop:
+      Head: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGVkNmNmYmM0MTI5MTA4ZTljZjJkZjVmNjE3OWE0YjI2ZjNiYzQzMzkwMWQ5NDJhNDk1NjNkNmJjN2UyMmQifX19'
+      Name: '&cChưa Có'
+      Power: '&cChưa Có'
+      Position: '&cChưa Có'
+    Lore:
+    - ''
+    - '&f&lLực chiến: &e&l%ae_power%'
+    - '&f&lĐứng top: &c&l#%position%'
+    - ''
+    Glowing: false
+    Slots:
+    - 13
+    - 21
+    - 23
+    - 29
+    - 31
+    - 33
+    - 37
+    - 39
+    - 41
+    - 43
+  Border:
+    Type: STAINED_GLASS_PANE:15:1
+    Name: ''
+    Lore:
+    - ''
+    - ''
+    Glowing: false
+    Slots:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 17
+    - 18
+    - 26
+    - 27
+    - 35
+    - 36
+    - 44
+    - 45
+    - 46
+    - 47
+    - 48
+    - 50
+    - 51
+    - 52
+    - 53
+  Filler:
+    Type: STAINED_GLASS_PANE:7:1
+    Name: ''
+    Lore:
+    - ''
+    - ''
+    Glowing: false
+    Slots:
+    - 10
+    - 11
+    - 12
+    - 14
+    - 15
+    - 16
+    - 19
+    - 20
+    - 22
+    - 24
+    - 25
+    - 28
+    - 30
+    - 32
+    - 34
+    - 38
+    - 40
+    - 42
+Buttons:
+  Back:
+    Type: FEATHER:0:1
+    Name: '&e'
+    Lore:
+    - '&a  Đóng Giao Diện  '
+    - ''
+    Glowing: false
+    Slots:
+    - 49
